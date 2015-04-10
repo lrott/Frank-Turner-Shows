@@ -16,4 +16,5 @@ Manual adjustments made to the dataset:
 <li>Tried to match festival locations with their closest town/hamlet where available</li>
 <li>Comma was missing between Cambridge and MA for show #1262</li>
 <li>Combined England, Scotland, Wales, and Northern Ireland into the UK. I may break them back out in the future</li>
+<li>For the Salty Dog Cruise shows (#1642-1645) the lat/long address is a point equidistant between Miami and Nassau
 </ul>
