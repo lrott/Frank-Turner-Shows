@@ -1,19 +1,19 @@
 Show #,Date,Venue,City,State,Country,Country Abb,Festival,Lattitude,Longitude,Continent
 1,9/18/2004,93 Feet East,London,,UK,GB,,51.5142,-0.0931,Europe
-2,1/30/2005,Chinnerys,Southend,,UK,GB,,55.3167,-5.6333,Europe
+2,1/30/2005,Chinnerys,Southend on Sea,,UK,GB,,51.5333,0.7,Europe
 3,4/3/2005,Bread & Roses,Clapham,,UK,GB,,54.1,-2.3833,Europe
 4,4/7/2005,The Luminaire,Kilburn,,UK,GB,,53,-1.4333,Europe
 5,6/8/2005,The Underworld,London,,UK,GB,,51.5142,-0.0931,Europe
 6,9/5/2005,The Spitz,London,,UK,GB,,51.5142,-0.0931,Europe
 7,9/13/2005,London ICA,London,,UK,GB,,51.5142,-0.0931,Europe
-8,10/6/2005,Utopia Cafe,Southend,,UK,GB,,55.3167,-5.6333,Europe
+8,10/6/2005,Utopia Cafe,Southend on Sea,,UK,GB,,51.5333,0.7,Europe
 9,10/7/2005,The Curzon Cinema,London,,UK,GB,,51.5142,-0.0931,Europe
 10,10/14/2005,Bradford Love Apple Cafe,Bradford,,UK,GB,,53.7833,-1.75,Europe
 11,10/28/2005,Club Fandango,Plymouth,,UK,GB,,50.3964,-4.1386,Europe
 12,10/30/2005,The Bull and Gate,London,,UK,GB,,51.5142,-0.0931,Europe
 13,11/4/2005,The Tunbridge Wells Forum,Tunbridge Wells,,UK,GB,,51.1333,0.2833,Europe
 14,11/5/2005,The Cellar Bar,Cambridge,,UK,GB,,52.2,0.1167,Europe
-15,11/6/2005,Chinnerys,Southend,,UK,GB,,55.3167,-5.6333,Europe
+15,11/6/2005,Chinnerys,Southend on Sea,,UK,GB,,51.5333,0.7,Europe
 16,11/14/2005,The Star,Guildford,,UK,GB,,51.2167,-0.5667,Europe
 17,11/16/2005,Junktion 7,Nottingham,,UK,GB,,52.9667,-1.1667,Europe
 18,11/17/2005,The Fenton,Leeds,,UK,GB,,53.8,-1.5833,Europe
@@ -62,7 +62,7 @@ Show #,Date,Venue,City,State,Country,Country Abb,Festival,Lattitude,Longitude,Co
 61,3/5/2006,The Quicksilver Mail,Yeovil,,UK,GB,,50.95,-2.6333,Europe
 62,3/6/2006,The Globe,Brighton,,UK,GB,,50.8333,-0.15,Europe
 63,3/10/2006,The Roundabout,High Wycombe,,UK,GB,,51.6333,-0.7667,Europe
-64,3/16/2006,Chinnerys,Southend,,UK,GB,,55.3167,-5.6333,Europe
+64,3/16/2006,Chinnerys,Southend on Sea,,UK,GB,,51.5333,0.7,Europe
 65,3/17/2006,The Angel,Bedford,,UK,GB,,52.1333,-0.45,Europe
 66,3/18/2006,The Spread Eagle,Shoreditch,,UK,GB,,51.5333,-0.0833,Europe
 67,3/19/2006,Nambucca,London,,UK,GB,,51.5142,-0.0931,Europe
@@ -874,7 +874,7 @@ Show #,Date,Venue,City,State,Country,Country Abb,Festival,Lattitude,Longitude,Co
 873,6/26/2010,Glastonbury Festival (Leftfield),Pilton,,UK,GB,Glastonbury,51.1653,-2.5872,Europe
 874,7/5/2010,The Railway Inn,Winchester,,UK,GB,,51.0167,-1.3167,Europe
 875,7/9/2010,Ruisrock Festival,Turku,,Finland,FI,Ruisrock Festival,60.45,22.2833,Europe
-876,7/11/2010,T In The Park Festival,Kinross-shire,,UK,GB,T In The Park Festival,#N/A,#N/A,Europe
+876,7/11/2010,T In The Park Festival,Kinross-shire,,UK,GB,T In The Park Festival,56.2094828,-3.4623971,Europe
 877,7/14/2010,Komedia,Bath,,UK,GB,,51.3794,-2.3656,Europe
 878,7/15/2010,Larmer Tree Festival,Tollard Royal,,UK,GB,Larmer Tree Festival,50.95,-2.0833,Europe
 879,7/16/2010,2000 Trees Festival,Cheltenham,,UK,GB,2000 Trees,51.9,-2.0833,Europe
@@ -1235,7 +1235,7 @@ Show #,Date,Venue,City,State,Country,Country Abb,Festival,Lattitude,Longitude,Co
 1234,5/15/2012,Kings Arms Tavern,Auckland,,New Zealand,NZ,,-36.8667,174.7667,Asia
 1235,5/18/2012,Queen Elizabeth Theater,Toronto,ON,Canada,CA,,43.6667,-79.4167,North America
 1236,5/19/2012,Queen Elizabeth Theater,Toronto,ON,Canada,CA,,43.6667,-79.4167,North America
-1237,6/6/2012,Hay Festival,Hereford,,UK,GB,Hay Festival,52.05,-2.7167,Europe
+1237,6/6/2012,Hay Festival,Hay-on-Wye,,UK,GB,Hay Festival,52.0738342,-3.1296238,Europe
 1238,6/14/2012,Hultsfred Festival,Hultsfred,,Sweden,SE,Hultsfred Festival,57.4833,15.8333,Europe
 1239,6/16/2012,Azkena Rock Festival,Vitoria,,Spain,ES,Azkena Rock Festival,42.85,-2.6667,Europe
 1240,6/22/2012,Danube Island Festival,Vienna,,Austria,AT,Danube Island Festival,48.2,16.3667,Europe
@@ -1654,7 +1654,7 @@ Show #,Date,Venue,City,State,Country,Country Abb,Festival,Lattitude,Longitude,Co
 1653,3/27/2015,Bridgewater Hall,Manchester,,UK,GB,,53.5,-2.2167,Europe
 1654,3/28/2015,The Library,Liverpool,,UK,GB,,53.4167,-3,Europe
 1655,3/29/2015,The Royal Albert hall,London,,UK,GB,,51.5142,-0.0931,Europe
-1656,4/5/2015,Byron Bay Bluesfest,Byron Bay,,Australia,AU,,-28.642,153.6119,Asia
+1656,4/5/2015,Byron Bay Bluesfest,Byron Bay,,Australia,AU,Byron Bay Bluesfest,-28.642,153.6119,Asia
 1657,4/6/2015,Amplifier,Perth,,Australia,AU,,-31.9522,115.8614,Asia
 1658,4/8/2015,Unibar,Adelaide,,Australia,AU,,-34.9287,138.5986,Asia
 1659,4/9/2015,Small Ballroom,Newcastle,,Australia,AU,,-32.9278,151.7845,Asia
@@ -1673,9 +1673,10 @@ Show #,Date,Venue,City,State,Country,Country Abb,Festival,Lattitude,Longitude,Co
 1672,5/13/2015,Ziggy's,Winston-Salem,NC,USA,US,,36.0999,-80.2442,North America
 1673,5/14/2015,3rd & Lindsley,Nash,TN,USA,US,,33.4344,-94.1219,North America
 1674,5/15/2015,The Mercury Ballroom,Louisville,KY,USA,US,,38.0858,-85.8495,North America
-1675,5/17/2015,Hangout Festival,Gulf Shores,AL,USA,US,,30.246,-87.7008,North America
+1675,5/17/2015,Hangout Festival,Gulf Shores,AL,USA,US,Hangout Festival,30.246,-87.7008,North America
 1676,5/18/2015,Loony Tunes Records,West Babylon,NY,USA,US,,40.7066,-73.3501,North America
 1677,5/19/2015,Grand Victory,Williamsburg,NY,USA,US,,37.354,-76.7467,North America
 1678,5/21/2015,Madame Siam,Hollywood,CA,USA,US,,25.9825,-80.3434,North America
 1679,5/22/2015,Salzers Records,Ventura,CA,USA,US,,34.2863,-119.2267,North America
 1680,5/23/2015,Punk Rock Bowling,Las Vegas,NV,USA,US,,36.11,-115.2118,North America
+1681,5/29/2015,Hay Festival,Hay-on-Wye,,UK,GB,Hay Festival,52.0738342,-3.1296238,Europe
