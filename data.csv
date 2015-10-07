@@ -251,7 +251,7 @@ Show #,Date,Venue,City,State,Country,Country Abb,Festival,Lattitude,Longitude,Co
 250,3/16/2007,Epoch Coffee,Austin,TX,USA,US,,30.2058,-97.8002,North America
 251,3/18/2007,Modified,Phoenix,AZ,USA,US,,33.5586,-112.0955,North America
 252,3/19/2007,The Knitting Factory,Los Angeles,CA,USA,US,,34.0396,-118.2661,North America
-253,3/20/2007,Bottom Of The Hill,San Fransisco,CA,USA,US,,37.7749,-122.4194,North America
+253,3/20/2007,Bottom Of The Hill,San Francisco,CA,USA,US,,37.7312,-122.3826,North America
 254,3/21/2007,The Delta Of Venus,Davis,CA,USA,US,,38.4829,-121.6398,North America
 255,3/22/2007,The Old Ironsides,Sacramento,CA,USA,US,,38.5517,-121.4501,North America
 256,3/23/2007,Sacred Grounds Coffee,Arcata,CA,USA,US,,40.8536,-124.0502,North America
@@ -1669,14 +1669,14 @@ Show #,Date,Venue,City,State,Country,Country Abb,Festival,Lattitude,Longitude,Co
 1668,5/7/2015,The Cobra Lounge,Chicago,IL,USA,US,,41.9288,-87.6315,North America
 1669,5/9/2015,The Masquerade,Atlanta,GA,USA,US,,33.8477,-84.2814,North America
 1670,5/10/2015,Shaky Knees Festival,Atlanta,GA,USA,US,Shaky Knees Festival,33.8477,-84.2814,North America
-1671,5/12/2015,Ziggy's By The Sea,Wilmington,NC,USA,US,,39.4611,-83.8172,North America
+1671,5/12/2015,Ziggy's By The Sea,Wilmington,NC,USA,US,,34.1256,-77.919,North America
 1672,5/13/2015,Ziggy's,Winston-Salem,NC,USA,US,,36.0999,-80.2442,North America
-1673,5/14/2015,3rd & Lindsley,Nash,TN,USA,US,,33.4344,-94.1219,North America
+1673,5/14/2015,3rd & Lindsley,Nashville,TN,USA,US,,36.1473,-86.777,North America
 1674,5/15/2015,The Mercury Ballroom,Louisville,KY,USA,US,,38.0858,-85.8495,North America
 1675,5/17/2015,Hangout Festival,Gulf Shores,AL,USA,US,Hangout Festival,30.246,-87.7008,North America
 1676,5/18/2015,Loony Tunes Records,West Babylon,NY,USA,US,,40.7066,-73.3501,North America
-1677,5/19/2015,Grand Victory,Williamsburg,NY,USA,US,,37.354,-76.7467,North America
-1678,5/21/2015,Madame Siam,Hollywood,CA,USA,US,,25.9825,-80.3434,North America
+1677,5/19/2015,Grand Victory,Brooklyn,NY,USA,US,,40.6981,-73.9571,North America
+1678,5/21/2015,Madame Siam,Hollywood,CA,USA,US,,34.0021,-118.2136,North America
 1679,5/22/2015,Salzers Records,Ventura,CA,USA,US,,34.2863,-119.2267,North America
 1680,5/23/2015,Punk Rock Bowling,Las Vegas,NV,USA,US,,36.11,-115.2118,North America
 1681,5/29/2015,Hay Festival,Hay-on-Wye,,UK,GB,Hay Festival,52.0738342,-3.1296238,Europe
@@ -1723,3 +1723,23 @@ Show #,Date,Venue,City,State,Country,Country Abb,Festival,Lattitude,Longitude,Co
 1722,9/4/2015,Rock Am See Festival,Konstanz,,Germany,DE,Rock Am See,47.6667,9.1833,Europe
 1723,9/5/2015,Strom,Munich,,Germany,DE,,48.15,11.5833,Europe
 1724,9/6/2015,Kesselhaus,Wiesbaden,,Germany,DE,,50.0833,8.25,Europe
+1725,9/8/2015,Hedi,Hamburg,,Germany,DE,,53.55,10,Europe
+1726,9/9/2015,Escobar,Berlin,,Germany,DE,,52.5167,13.4,Europe
+1727,9/11/2015,Backstage Hotel,Amsterdam,,Netherlands,NL,,52.35,4.9167,Europe
+1728,9/12/2015,Gibus,Paris,,France,FR,,48.8667,2.3333,Europe
+1729,9/15/2015,Amoeba Records,Hollywood,CA,USA,US,,34.0021,-118.2136,North America
+1730,9/19/2015,Mr. Smalls,Millvale,PA,USA,US,,40.4823685,-79.9740234,North America
+1731,9/20/2015,Riotfest,Toronto,ON,Canada,CA,Riotfest,43.6667,-79.4167,North America
+1732,9/22/2015,Lost Horizon,Syracuse,NY,USA,US,,43.0347,-76.0729,North America
+1733,9/23/2015,Higher Ground,Burlington,VT,USA,US,,44.4929,-73.2253,North America
+1734,9/25/2015, House Of Blues,Boston,MA,USA,US,,42.3496,-71.0746,North America
+1735,9/26/2015, Newbury Comics,Cambridge,MA,USA,US,,42.37,-71.0812,North America
+1736,9/26/2015, House Of Blues,Boston,MA,USA,US,,42.3496,-71.0746,North America
+1737,9/28/2015, Irving Plaza,New York,NY,USA,US,,40.7528,-73.9725,North America
+1738,9/29/2015, Rough Trade,Brooklyn,NY,USA,US,,40.6981,-73.9571,North America
+1739,9/29/2015, Irving Plaza,New York,NY,USA,US,,40.7528,-73.9725,North America
+1740,9/30/2015, Irving Plaza,New York,NY,USA,US,,40.7528,-73.9725,North America
+1741,10/2/2015, The Fillmore,Philadelphia,PA,USA,US,,39.9524,-75.1653,North America
+1742,10/3/2015, The Sound Garden,Baltimore,MD,USA,US,,39.2904,-76.6122,North America
+1743,10/3/2015, Rams Head Live,Baltimore,MD,USA,US,,39.2904,-76.6122,North America
+1744,10/4/2015, 930 Club,Washington,DC,USA,US,,38.8749,-77.0325,North America
