@@ -1576,7 +1576,7 @@ Show #,Date,Venue,City,State,Country,Country Abb,Festival,Lattitude,Longitude,Co
 1575,5/31/2014,Little Five Points,Atlanta,GA,USA,US,,33.8477,-84.2814,North America
 1576,6/1/2014,New Brookland Tavern,West Columbia,SC,USA,US,,33.9348,-81.1444,North America
 1577,6/2/2014,The Music Farm,Charleston,SC,USA,US,,32.9326,-79.9798,North America
-1578,6/4/2014,930 Club,Washington,DC,USA,US,,38.8749,-77.0325,North America
+1578,6/4/2014,9:30 Club,Washington,DC,USA,US,,38.8749,-77.0325,North America
 1579,6/5/2014,Larimer Lounge,Denver,CO,USA,US,,39.7525,-104.9995,North America
 1580,6/6/2014,Red Rocks Amphitheater,Morrison,CO,USA,US,,39.6081,-105.2072,North America
 1581,6/7/2014,Crossroads,Kansas City,MO,USA,US,,39.1068,-94.566,North America
@@ -1732,14 +1732,33 @@ Show #,Date,Venue,City,State,Country,Country Abb,Festival,Lattitude,Longitude,Co
 1731,9/20/2015,Riotfest,Toronto,ON,Canada,CA,Riotfest,43.6667,-79.4167,North America
 1732,9/22/2015,Lost Horizon,Syracuse,NY,USA,US,,43.0347,-76.0729,North America
 1733,9/23/2015,Higher Ground,Burlington,VT,USA,US,,44.4929,-73.2253,North America
-1734,9/25/2015, House Of Blues,Boston,MA,USA,US,,42.3496,-71.0746,North America
-1735,9/26/2015, Newbury Comics,Cambridge,MA,USA,US,,42.37,-71.0812,North America
-1736,9/26/2015, House Of Blues,Boston,MA,USA,US,,42.3496,-71.0746,North America
-1737,9/28/2015, Irving Plaza,New York,NY,USA,US,,40.7528,-73.9725,North America
-1738,9/29/2015, Rough Trade,Brooklyn,NY,USA,US,,40.6981,-73.9571,North America
-1739,9/29/2015, Irving Plaza,New York,NY,USA,US,,40.7528,-73.9725,North America
-1740,9/30/2015, Irving Plaza,New York,NY,USA,US,,40.7528,-73.9725,North America
-1741,10/2/2015, The Fillmore,Philadelphia,PA,USA,US,,39.9524,-75.1653,North America
-1742,10/3/2015, The Sound Garden,Baltimore,MD,USA,US,,39.2904,-76.6122,North America
-1743,10/3/2015, Rams Head Live,Baltimore,MD,USA,US,,39.2904,-76.6122,North America
-1744,10/4/2015, 930 Club,Washington,DC,USA,US,,38.8749,-77.0325,North America
+1734,9/25/2015,House Of Blues,Boston,MA,USA,US,,42.3496,-71.0746,North America
+1735,9/26/2015,Newbury Comics,Cambridge,MA,USA,US,,42.37,-71.0812,North America
+1736,9/26/2015,House Of Blues,Boston,MA,USA,US,,42.3496,-71.0746,North America
+1737,9/28/2015,Irving Plaza,New York,NY,USA,US,,40.7528,-73.9725,North America
+1738,9/29/2015,Rough Trade,Brooklyn,NY,USA,US,,40.6981,-73.9571,North America
+1739,9/29/2015,Irving Plaza,New York,NY,USA,US,,40.7528,-73.9725,North America
+1740,9/30/2015,Irving Plaza,New York,NY,USA,US,,40.7528,-73.9725,North America
+1741,10/2/2015,The Fillmore,Philadelphia,PA,USA,US,,39.9524,-75.1653,North America
+1742,10/3/2015,The Sound Garden,Baltimore,MD,USA,US,,39.2904,-76.6122,North America
+1743,10/3/2015,Rams Head Live,Baltimore,MD,USA,US,,39.2904,-76.6122,North America
+1744,10/4/2015,9:30 Club,Washington,DC,USA,US,,38.8749,-77.0325,North America
+1745,10/6/2015,House Of Blues,Chicago,IL,USA,US,,41.9288,-87.6315,North America
+1746,10/7/2015,Electric Fetus Records,Minneapolis,MN,USA,US,,45.0059,-93.4305,North America
+1747,10/7/2015,Varsity Theatre,Minneapolis,MN,USA,US,,45.0059,-93.4305,North America
+1748,10/9/2015,Twist & Shout Records,Denver,CO,USA,US,,39.7525,-104.9995,North America
+1749,10/9/2015,Ogden Theater,Denver,CO,USA,US,,39.7525,-104.9995,North America
+1750,10/10/2015,Boulder Theater,Boulder,CO,USA,US,,40.0878,-105.3735,North America
+1751,10/11/2015,Surfside 7,Fort Collins,CO,USA,US,,40.5939,-105.1256,North America
+1752,10/12/2015,Gray Whale Music,Salt Lake City,UT,USA,US,,40.7608,-111.8911,North America
+1753,10/12/2015,Urban Lounge,Salt Lake City,UT,USA,US,,40.7608,-111.8911,North America
+1754,10/13/2015,Knitting Factory,Boise,ID,USA,US,,43.561,-116.2135,North America
+1755,10/14/2015,Play Network,Seattle,WA,USA,US,,47.6026,-122.3284,North America
+1756,10/15/2015,East Street Records,Seattle,WA,USA,US,,47.6026,-122.3284,North America
+1757,10/15/2015,Neptune Theater,Seattle,WA,USA,US,,47.6026,-122.3284,North America
+1758,10/16/2015,Knitting Factory,Spokane,WA,USA,US,,47.6567,-117.3785,North America
+1759,10/17/2015,Music Millennium,Portland,OR,USA,US,,45.4691,-122.5535,North America
+1760,10/17/2015,The Roseland Theatre,Portland,OR,USA,US,,45.4691,-122.5535,North America
+1761,10/19/2015,Ace Of Spades,Sacramento,CA,USA,US,,38.5517,-121.4501,North America
+1762,10/20/2015,YouTube HQ,San Bruno,CA,USA,US,,37.6228,-122.4364,North America
+1763,10/21/2015,The Fillmore,San Francisco,CA,USA,US,,37.7312,-122.3826,North America
