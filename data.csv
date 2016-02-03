@@ -1789,35 +1789,39 @@ Show #,Date,Venue,City,State,Country,Country Abb,Festival,Lattitude,Longitude,Co
 1788,11/18/2015,The Academy,Birmingham,,UK,GB,,52.4667,-1.9167,Europe
 1789,11/19/2015,The Academy,Sheffield,,UK,GB,,53.3667,-1.5,Europe
 1790,11/21/2015,Colston Hall,Bristol,,UK,GB,,51.45,-2.5833,Europe
-1791,11/22/2015, Colston Hall,Bristol,,UK,GB,,51.45,-2.5833,Europe
-1792,11/23/2015, The Academy,Manchester,,UK,GB,,53.5,-2.2167,Europe
-1793,11/24/2015, The Academy,Manchester,,UK,GB,,53.5,-2.2167,Europe
-1794,11/26/2015, Alexandra Palace,London,,UK,GB,,51.5142,-0.0931,Europe
-1795,12/1/2015, The Majestic,Madison,WI,USA,US,,43.1082,-89.2706,North America
-1796,12/2/2015, The Midland,Kansas City,MO,USA,US,,39.1068,-94.566,North America
-1797,12/3/2015, Carpa De Astros,Mexico City,,Mexico,MX,,19.3888695,-99.1412193,North America
-1798,12/5/2015, Feria Internacional del Libro,Guadalajara,,Mexico,MX,,20.6667,-103.3333,North America
-1799,12/9/2015, Grimey's,Nashville,TN,USA,US,,36.1473,-86.777,North America
-1800,12/9/2015, 3rd & Lindsley,Nashville,TN,USA,US,,36.1473,-86.777,North America
-1801,12/10/2015, Limelight,Peoria,IL,USA,US,,40.6999,-89.5951,North America
-1802,12/11/2015, The Pageant,St Louis,MO,USA,US,,38.6273,-90.1979,North America
-1803,12/12/2015, The Eagles Ballroom,Milwaukee,WI,USA,US,,43.0434,-87.8945,North America
-1804,12/14/2015, Vintage Vinyl,Fords,NJ,USA,US,,40.5377,-74.3111,North America
-1805,12/14/2015, Starland Ballroom,Sayreville,NJ,USA,US,,40.4619,-74.3561,North America
-1806,12/15/2015, Fete,Providence,RI,USA,US,,41.8195,-71.4107,North America
-1807,12/19/2015, Union Chapel,London,,UK,GB,,51.5142,-0.0931,Europe
-1808,1/10/2016, Tivoli Ronda,Utrecht,,Holland,NL,,52.0938,5.1191,Europe
-1809,1/11/2016, Skater's Palace,Münster,,Germany,DE,,51.9667,7.6333,Europe
-1810,1/12/2016, 25 Records,Hanover,,Germany,DE,,52.3667,9.7167,Europe
-1811,1/12/2016, Capitol,Hanover,,Germany,DE,,52.3667,9.7167,Europe
-1812,1/14/2016, Music Store Kietz,Leipzig,,Germany,DE,,51.3,12.3333,Europe
-1813,1/14/2016, Werk II,Leipzig,,Germany,DE,,51.3,12.3333,Europe
-1814,1/15/2016, Max Nachttheater,Kiel,,Germany,DE,,54.3333,10.1333,Europe
-1815,1/16/2016, Pier 2,Bremen,,Germany,DE,,53.0833,8.8,Europe
-1816,1/17/2016, CoreTex Records,Berlin,,Germany,DE,,52.5167,13.4,Europe
-1817,1/17/2016, Huxleys,Berlin,,Germany,DE,,52.5167,13.4,Europe
-1818,1/19/2016, Volkhaus,Zurich,,Switzerland,CH,,47.3667,8.55,Europe
-1819,1/20/2016, LKA Longhorn,Stuttgart,,Germany,DE,,48.7667,9.1833,Europe
-1820,1/21/2016, Tonhalle,Munich,,Germany,DE,,48.15,11.5833,Europe
-1821,1/22/2016, Gasometer,Vienna,,Austria,AT,,48.2,16.3667,Europe
-1822,1/23/2016, Orpheum,Graz,,Austria,AT,,47.0667,15.45,Europe
+1791,11/22/2015,Colston Hall,Bristol,,UK,GB,,51.45,-2.5833,Europe
+1792,11/23/2015,The Academy,Manchester,,UK,GB,,53.5,-2.2167,Europe
+1793,11/24/2015,The Academy,Manchester,,UK,GB,,53.5,-2.2167,Europe
+1794,11/26/2015,Alexandra Palace,London,,UK,GB,,51.5142,-0.0931,Europe
+1795,12/1/2015,The Majestic,Madison,WI,USA,US,,43.1082,-89.2706,North America
+1796,12/2/2015,The Midland,Kansas City,MO,USA,US,,39.1068,-94.566,North America
+1797,12/3/2015,Carpa De Astros,Mexico City,,Mexico,MX,,19.3888695,-99.1412193,North America
+1798,12/5/2015,Feria Internacional del Libro,Guadalajara,,Mexico,MX,,20.6667,-103.3333,North America
+1799,12/9/2015,Grimey's,Nashville,TN,USA,US,,36.1473,-86.777,North America
+1800,12/9/2015,3rd & Lindsley,Nashville,TN,USA,US,,36.1473,-86.777,North America
+1801,12/10/2015,Limelight,Peoria,IL,USA,US,,40.6999,-89.5951,North America
+1802,12/11/2015,The Pageant,St Louis,MO,USA,US,,38.6273,-90.1979,North America
+1803,12/12/2015,The Eagles Ballroom,Milwaukee,WI,USA,US,,43.0434,-87.8945,North America
+1804,12/14/2015,Vintage Vinyl,Fords,NJ,USA,US,,40.5377,-74.3111,North America
+1805,12/14/2015,Starland Ballroom,Sayreville,NJ,USA,US,,40.4619,-74.3561,North America
+1806,12/15/2015,Fete,Providence,RI,USA,US,,41.8195,-71.4107,North America
+1807,12/19/2015,Union Chapel,London,,UK,GB,,51.5142,-0.0931,Europe
+1808,1/10/2016,Tivoli Ronda,Utrecht,,Holland,NL,,52.0938,5.1191,Europe
+1809,1/11/2016,Skater's Palace,Münster,,Germany,DE,,51.9667,7.6333,Europe
+1810,1/12/2016,25 Records,Hanover,,Germany,DE,,52.3667,9.7167,Europe
+1811,1/12/2016,Capitol,Hanover,,Germany,DE,,52.3667,9.7167,Europe
+1812,1/14/2016,Music Store Kietz,Leipzig,,Germany,DE,,51.3,12.3333,Europe
+1813,1/14/2016,Werk II,Leipzig,,Germany,DE,,51.3,12.3333,Europe
+1814,1/15/2016,Max Nachttheater,Kiel,,Germany,DE,,54.3333,10.1333,Europe
+1815,1/16/2016,Pier 2,Bremen,,Germany,DE,,53.0833,8.8,Europe
+1816,1/17/2016,CoreTex Records,Berlin,,Germany,DE,,52.5167,13.4,Europe
+1817,1/17/2016,Huxleys,Berlin,,Germany,DE,,52.5167,13.4,Europe
+1818,1/19/2016,Volkhaus,Zurich,,Switzerland,CH,,47.3667,8.55,Europe
+1819,1/20/2016,LKA Longhorn,Stuttgart,,Germany,DE,,48.7667,9.1833,Europe
+1820,1/21/2016,Tonhalle,Munich,,Germany,DE,,48.15,11.5833,Europe
+1821,1/23/2016,Gasometer,Vienna,,Austria,AT,,48.2,16.3667,Europe
+1822,1/24/2016,Orpheum,Graz,,Austria,AT,,47.0667,15.45,Europe
+1823,1/25/2016,Schlachthof,Wiesbaden,,Germany,DE,,50.0833,8.25,Europe
+1824,1/27/2016,Docks,Hamburg,,Germany,DE,,53.55,10,Europe
+1825,1/28/2016,Docks,Hamburg,,Germany,DE,,53.55,10,Europe
+1826,1/29/2016,Palladium,Cologne,,Germany,DE,,50.9333,6.95,Europe
